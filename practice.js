@@ -22,7 +22,7 @@
 // console.log("Math: " + Math.min(4, 6, 2, -3, 0));
 // console.log("Math: " + Math.max(4, 666, 2, -3, 0));
 
-let number = 15;
+// let number = 15;
 // if (number > 5) {
 //   console.log("Ok");
 // }
@@ -43,3 +43,27 @@ let number = 15;
 // } else if ((number = 15)) {
 //   console.log("15!");
 // }
+
+// let arr = [5, true, -100];
+// console.log(arr.length);
+
+// let matrix = [
+//   [4, 6, 8],
+//   [5, true],
+//   [true, -100],
+// ];
+
+// matrix[1][0] = 90;
+// console.log(matrix);
+
+// цикл for
+
+// for (let i = 100; i > 5; i /= 2) {
+//   console.log(i);
+// }
+let j = 0;
+
+while (j < 1000) {
+  j > 100;
+  console.log(j);
+}
